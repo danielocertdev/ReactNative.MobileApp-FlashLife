@@ -1,12 +1,20 @@
 # FlashLife Mobile APP using React Native(Forked form Bitbucket)
 
-Flash Life is a cutting-edge React Native mobile application designed to provide CRM. Whether you use Flash Web or Flash Life, Everything is possible.
+Flash Life is a cutting-edge React Native mobile application designed to provide CRM. Whether you use flash web or flash life, Everything is possible.
+
+# Move here 
+https://apps.apple.com/ZA/app/id1533061853?mt=8
 
 Feature 1: Modern Style DashBoard
+
 Feature 2: LeaderShip Club
+
 Feature 3: Learning Module
+
 Feature 3: Lunch Module
+
 Feature 3: Office, Report, PipeLine, Galery and so on
+
 ...
 # Getting Started
 
